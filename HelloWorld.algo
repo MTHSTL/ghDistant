@@ -2,7 +2,7 @@ Algorithme HelloWorld
 
 Début
 
-Fenetre largeur=400 hauteur=150 couleur_fond="cyann"
+Fenetre largeur=400 hauteur=150 couleur_fond="vert"
 
     Titre HELLO_TITLE
 
