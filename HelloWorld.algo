@@ -1,0 +1,10 @@
+Algorithme HelloWorld
+
+Début
+
+    Fenetre largeur=200 hauteur=100
+    Titre "Hello world"
+
+    Label texte="Hello world"
+
+Fin
