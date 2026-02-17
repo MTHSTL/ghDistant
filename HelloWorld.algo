@@ -7,5 +7,7 @@ Fenetre largeur=400 hauteur=150 couleur_fond="vert"
     Titre HELLO_TITLE
 
     Label texte=HELLO_TEXT
+
     #modif github
+    #modif locale 
 Fin
