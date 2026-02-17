@@ -4,6 +4,7 @@ Début
 
 Const
     HELLO_TITLE = "Hello world"
-    HELLO_TEXT = "Hello world"
+    HELLO_TEXT = "Hello world !!!"
+
 
 Fin
