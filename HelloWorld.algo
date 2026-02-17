@@ -2,9 +2,10 @@ Algorithme HelloWorld
 
 Début
 
-    Fenetre largeur=300 hauteur=150 couleur_fond="jaune"
+Fenetre largeur=300 hauteur=150 couleur_fond="vert"
+
     Titre HELLO_TITLE
-    
+
     Label texte=HELLO_TEXT
 
 Fin
